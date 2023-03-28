@@ -1,2 +1,1 @@
-*.txt filter=indent
-* ident
+*.txt filter=dater
